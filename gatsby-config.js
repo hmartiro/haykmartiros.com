@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/hmartiro.github.io",
   plugins: [
     'gatsby-plugin-styled-components',
     'gatsby-plugin-react-helmet',
