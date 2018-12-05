@@ -3,7 +3,7 @@
 I'm a roboticist living in San Francisco. 
 I lead the autonomous technology group at [Skydio](https://www.skydio.com/), where we build the most advanced autonomous devices in production today. I was born in Armenia and grew up in Alaska before studying at Princeton and then moving west to get my Master’s in robotics from Stanford.
 
-My work focuses on robust approaches to computer vision, deep learning, nonlinear optimization, motion planning, and dynamics. I also have a keen interests in systems architecture and symbolic computation.
+My work focuses on robust approaches to computer vision, deep learning, nonlinear optimization, motion planning, and dynamics. I also have a keen interest in systems architecture and symbolic computation.
 
 In my free time I enjoy making music with guitars and drums, traveling, playing [bughouse](https://en.wikipedia.org/wiki/Bughouse_chess), and flying things.
 
