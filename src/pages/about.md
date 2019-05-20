@@ -15,7 +15,8 @@ You can reach me via <a href="mailto:hayk.mart@gmail.com">email</a>.
 
 ## Events
 
-2019.03 : Skydio autonomy invited to workshops @ ICRA ([1](https://uav-learning-icra.github.io/2019/), [2](https://www.aerial-robotics-workshop.com/agenda.html)), [RSS](https://sites.google.com/view/rss19safe), and [CVPR](https://embeddedvisionworkshop.wordpress.com/)  
+2019.05 : Cheers to [Greg Kahn](https://people.eecs.berkeley.edu/~gregoryk/) for a great research internship here!  
+2019.04 : Skydio autonomy invited to workshops @ ICRA ([1](https://uav-learning-icra.github.io/2019/), [2](https://www.aerial-robotics-workshop.com/agenda.html)), [RSS](https://sites.google.com/view/rss19safe), and [CVPR](https://embeddedvisionworkshop.wordpress.com/)  
 2018.10 : R1 lands in [Apple](https://www.apple.com/us_edu_5005057/shop/product/HMLV2LL/A/skydio-r1-drone) retail stores and [Amazon](https://www.amazon.com/Skydio-Self-Flying-Camera-Smart-Drone/dp/B07HRPQNLW/)!  
 2018.09 : Skydio [announces](https://spectrum.ieee.org/automaton/robotics/drones/skydio-announces-sdk-to-make-worlds-cleverest-drone-even-cleverer) [SDK](https://www.skydio.com/developer/) to build apps for flying cameras  
 2018.08 : [LentinkLab](http://lentinklab.stanford.edu/) + [BDML](http://bdml.stanford.edu/) + Skydio awared [DESI](https://dod.defense.gov/News/Article/Article/1595382/dod-announces-desi-awards-for-university-industry-collaborations/) basic research grant  
