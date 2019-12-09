@@ -17,7 +17,7 @@ export default () => {
     body {
       font-size: 16px;
       font-size: 1.6rem;
-      font-family: 'Roboto Mono', monospace;
+      font-family: 'Roboto Condensed', Helvetica, sans-serif;
       word-break: break-word;
       // white-space: pre-line;
     }

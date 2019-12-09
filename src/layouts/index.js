@@ -63,7 +63,7 @@ class Template extends React.Component {
 
         <Helmet>
           <link
-            href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700|Rubik:700"
+            href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Rubik:700"
             rel="stylesheet"
           />
           <title>Hayk Martiros</title>
@@ -84,8 +84,29 @@ class Template extends React.Component {
         <StyledHeader>
           <StyledTitle>
             hayk martiros
+            <span style={{marginRight: "20px"}}></span>
+            <a href="https://www.linkedin.com/in/hmartiros/">
+            <img style={{
+              width: "30px",
+              marginBottom:"-3px"
+            }} src="/linkedin-logo.png"></img></a>
+            <span style={{marginLeft: "10px"}}></span>
+            <a href="mailto:hayk.mart@gmail.com" target="_blank">
+           <img style={{
+              width: "30px",
+              marginBottom:"-3px"
+            }} src="/email-logo.png"></img></a>
           </StyledTitle>
 
+          <img style={{
+              width: "150px",
+              display: "inline",
+              position: "relative",
+              top: "-58px",
+              float: "right",
+              marginBottom: "-50px",
+              borderRadius: "10px"
+            }} src="/profile2.jpg"></img>
           {/* <Nav /> */}
         </StyledHeader>
 

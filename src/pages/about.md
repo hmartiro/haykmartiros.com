@@ -1,13 +1,8 @@
 <div class="blog-section">
 
-Hi! I'm a roboticist living in San Francisco. 
-I lead the autonomous technology group at [Skydio](https://www.skydio.com/), where we build the best drones in the world. I was born in Armenia and grew up in Alaska before studying at Princeton and then moving west to get my Master’s in robotics from Stanford.
+Hi! I'm a roboticist living in San Francisco. I lead the autonomy group at [Skydio](https://www.skydio.com/), where we build the best drones in the world for consumers and industry. Our team holds the state of the art in robust visual localization, obstacle avoidance, and motion planning to create trustworthy and intelligent machines that delight, lower costs, and save lives in complex and unknown scenarios.
 
-My work focuses on robust approaches to computer vision, deep learning, nonlinear optimization, motion planning, and dynamics. I also have a keen interest in systems architecture and symbolic computation.
-
-In my free time I enjoy making music with guitars and drums, traveling, playing [bughouse](https://en.wikipedia.org/wiki/Bughouse_chess), and flying things.
-
-You can reach me via <a href="mailto:hayk.mart@gmail.com">email</a>.
+More generally, I have a keen interest in computer vision, deep learning, nonlinear optimization, systems architecture, and symbolic computation. I was born in Armenia and grew up in Alaska before studying at Princeton and Stanford. In my free time I enjoy playing guitars and drums, traveling, soccer, [bughouse](https://en.wikipedia.org/wiki/Bughouse_chess), and flying things.
 
 </div>
 
@@ -15,24 +10,28 @@ You can reach me via <a href="mailto:hayk.mart@gmail.com">email</a>.
 
 ## News
 
-2019.10 : Skydio [Dock](https://youtu.be/k8RRykNVL6E) introduced to commercial markets.  
-2019.10 : Skydio 2 [launches](https://youtu.be/imt2qZ7uw1s) [to](https://www.slashgear.com/skydio-2-drone-answers-all-my-autopilot-requests-cheaper-smaller-smarter-01593386/) [the](https://www.theverge.com/2019/10/1/20892377/skydio-2-drone-autonomous-self-flying-camera-controller-price-release-date-announcement) [world](https://spectrum.ieee.org/automaton/robotics/drones/skydios-new-drone-is-smaller-even-smarter-and-almost-affordable), sells out in 48 hours!  
+2019.11 : Thanks to [Vladimir Nekrasov](https://drsleep.github.io/My-Internship-at-Skydio/) for a fanstastic internship improving our obstacle avoidance system.  
+2019.10 : Skydio [Dock](https://youtu.be/k8RRykNVL6E) announced to commercial markets.  
+2019.10 : Skydio 2 [launches](https://youtu.be/imt2qZ7uw1s) [to the world](https://spectrum.ieee.org/automaton/robotics/drones/skydio-2-review-this-is-the-drone-you-want-to-fly), sells out in 48 hours!  
 2019.05 : Cheers to [Greg Kahn](https://people.eecs.berkeley.edu/~gregoryk/) for a great research internship!  
 2019.04 : Skydio autonomy invited to workshops @ ICRA ([1](https://uav-learning-icra.github.io/2019/), [2](https://www.aerial-robotics-workshop.com/agenda.html)), [RSS](https://sites.google.com/view/rss19safe), and [CVPR](https://embeddedvisionworkshop.wordpress.com/)  
 2018.10 : R1 lands in [Apple](https://www.apple.com/us_edu_5005057/shop/product/HMLV2LL/A/skydio-r1-drone) retail stores and [Amazon](https://www.amazon.com/Skydio-Self-Flying-Camera-Smart-Drone/dp/B07HRPQNLW/)!  
 2018.09 : Skydio [announces](https://spectrum.ieee.org/automaton/robotics/drones/skydio-announces-sdk-to-make-worlds-cleverest-drone-even-cleverer) [SDK](https://www.skydio.com/developer/) to build apps for flying cameras  
 2018.08 : [LentinkLab](http://lentinklab.stanford.edu/) + [BDML](http://bdml.stanford.edu/) + Skydio awared [DESI](https://dod.defense.gov/News/Article/Article/1595382/dod-announces-desi-awards-for-university-industry-collaborations/) basic research grant  
-2018.08 : We had a fantastic set of seven interns on the autonomy team this  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; summer. I worked most closely with the talented [Somil Bansal](http://people.eecs.berkeley.edu/~somil/).  
+2018.08 : We had seven great autonomy interns this summer. Special shout out to the talented [Somil Bansal](http://people.eecs.berkeley.edu/~somil/).  
 2018.02 : Skydio R1 [launches](https://spectrum.ieee.org/automaton/robotics/drones/skydio-r1-drone) as the first fully autonomous drone!  
-2017.07 : [End-to-End Geometry and Context for Deep Stereo Regression](https://arxiv.org/abs/1703.04309) is a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spotlight Oral @ [ICCV](http://iccv2017.thecvf.com/)! Thanks to [Alex Kendall](https://alexgkendall.com/) for his awesome work.
+2017.07 : [End-to-End Geometry and Context for Deep Stereo Regression](https://arxiv.org/abs/1703.04309) is a Spotlight Oral @ [ICCV](http://iccv2017.thecvf.com/)!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks to [Alex Kendall](https://alexgkendall.com/) for his awesome work.  
 2015.03 : Stanford -> Skydio
 
 </div>
 
 <div class="blog-section">
 
-## Talks
+## Events
 
+2018.11 : [Guest Lecture](https://youtu.be/R5K-IV3J8XM), 16.485 - Visual Navigation ([Luca Carlone](https://lucacarlone.mit.edu/)) @ MIT  
+2018.11 : Guest Lecture, [CS 287](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) - Advanced Robotics ([Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) @ Berkeley)  
 2019.11 : [PNT Symposium 2019](https://scpnt.stanford.edu/annual-symposium/2019-pnt-symposium) @ Stanford  
 2019.10 : [SF Drones Meetup](https://www.meetup.com/SF-Drones-Startup-Meetup/events/265300367/) @ [Bolt SF](https://bolt.io/)  
 2019.06 : [Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/) @ CVPR 2019  
@@ -52,8 +51,11 @@ You can reach me via <a href="mailto:hayk.mart@gmail.com">email</a>.
 
 <div class="blog-section">
 
-## Reading
-
+## Recent Reading
+Conviction - Denise Mina  
+City of Thieves - David Benioff  
+Permanent Record - Edward Snowden  
+Last and First Men - Olaf Stapledon  
 Talking to Strangers - Malcolm Gladwell  
 Genghis Khan and the Making of the Modern World - Jack Weatherford  
 Meditations - Marcus Aurelius  
