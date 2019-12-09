@@ -96,17 +96,14 @@ class Template extends React.Component {
               width: "30px",
               marginBottom:"-3px"
             }} src="/email-logo.png"></img></a>
-          </StyledTitle>
 
           <img style={{
               width: "150px",
-              display: "inline",
-              position: "relative",
-              top: "-58px",
               float: "right",
-              marginBottom: "-50px",
               borderRadius: "10px"
             }} src="/profile2.jpg"></img>
+          </StyledTitle>
+
           {/* <Nav /> */}
         </StyledHeader>
 
